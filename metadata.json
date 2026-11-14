@@ -1,0 +1,8 @@
+{
+  "name": "ComponentVerse — Modern Web Anatomy & UI Showcase",
+  "description": "An interactive single-page web anatomy and UI component showcase featuring Anatomy X-Ray Mode, dark/light themes, real-world use-case presets, and 16 interactive layout and UI components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
